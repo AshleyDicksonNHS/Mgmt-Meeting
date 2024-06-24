@@ -1,8 +1,10 @@
 # Payment & Pricing Team Project Matrix
 
-The project matrix describes the lines of responsibility for each piece of work across the team. Here, I attempt to unify the work programme into a single dependency diagram showing the top-level outputs on the left and contributory work packages to the right.
+The project matrix describes the lines of responsibility for each piece of work across the team. Here, I attempt to unify the work programme into a single dependency diagram showing the top-level outputs on the left and contributory work packages to the right. 
 
-> The arrows represent dependency relations; so A-->B means that B is a dependency of A. Please feed back to Ashley any changes needed.
+This is a first draft and has not yet been subject to review by the team. Any and all feedback is welcome and can be directed to Ashley.Dickson@nhs.net.
+
+> The arrows represent dependency relations; so A-->B means that B is a dependency of A.
 
 ```mermaid
 graph LR
