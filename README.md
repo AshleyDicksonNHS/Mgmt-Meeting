@@ -4,7 +4,7 @@ The project matrix describes the lines of responsibility for each piece of work 
 
 This is a first draft and has not yet been subject to review by the team. Any and all feedback is welcome and can be directed to Ashley.Dickson@nhs.net.
 
-> The arrows represent dependency relations; so A-->B means that B is a dependency of A.
+> The arrows represent dependency relations; so `A-->B` means that B is a dependency of A.
 
 ```mermaid
 graph LR
